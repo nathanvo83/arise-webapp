@@ -6,6 +6,7 @@ function App() {
     <div>
       <div>ARISE CHURCH</div>
       <hr></hr>
+      <div>To do list</div>
     </div>
   );
 }
