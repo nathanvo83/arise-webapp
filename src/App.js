@@ -1,9 +1,13 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div>ARISE WEB APP</div>;
+  return (
+    <div>
+      <div>ARISE CHURCH</div>
+      <hr></hr>
+    </div>
+  );
 }
 
 export default App;
